@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+[Link to live site](https://taskmanager-flask-sqlalchemy-l.herokuapp.com)
 
 Welcome Louise Benson,
 
